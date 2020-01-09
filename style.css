@@ -104,6 +104,10 @@ html {
     flex-basis: 50%;
   }
   
+  .widescreen {
+    color: #000;
+    font-weight: bold;
+  }
   /* unholy css to style input type="range" */
   
   input[type=range] {
